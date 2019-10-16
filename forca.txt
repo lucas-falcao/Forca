@@ -1,0 +1,14 @@
+cachorro
+gato
+cadeira
+computador
+apartamento
+caderno
+alistamento
+caranguejo
+hospital
+hospedeiro
+viagem
+basquete
+amigo
+brinquedo
