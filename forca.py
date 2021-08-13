@@ -51,7 +51,7 @@ while True:
         print('---PERDEU--- Que pena :( ')
         print('A palavra era:',palavra)
         break
-    #print('*'*(len(oculta)*2))
+    print('*'*(len(oculta)*2))
 
 '''
 UFRPE
